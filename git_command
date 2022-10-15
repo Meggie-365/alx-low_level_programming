@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Now i am beginning to understand C code"
+git commit -m "Variables and loops"
 git push
