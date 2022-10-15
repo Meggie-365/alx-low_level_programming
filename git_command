@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Variables and loops"
+git commit -m "More difficult loops"
 git push
