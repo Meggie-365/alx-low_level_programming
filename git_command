@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "More difficult loops"
+git commit -m "Added the more of the Variables task"
 git push
