@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Printing putchar"
+git commit -m "Printing putchar correction"
 git push
