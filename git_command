@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Added the more of the Variables task, correction"
+git commit -m "Printing putchar"
 git push
