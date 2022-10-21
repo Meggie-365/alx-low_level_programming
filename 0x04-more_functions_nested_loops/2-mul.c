@@ -6,7 +6,7 @@
  * @k: second integer
  * Return: addition of a and b
  */
-int mul(int p, int k);
+int mul(int p, int k)
 
 {
 	return (p * k);
