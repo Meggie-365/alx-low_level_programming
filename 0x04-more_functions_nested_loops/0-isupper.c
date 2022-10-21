@@ -4,7 +4,7 @@
  *
  * @c: checks character
  *
- * Return: 0 or 1
+ * Return: always 0
  */
 
 int _isupper(int c)
