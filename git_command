@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "I just hope these correcion make it work"
+git commit -m "New task Pointer and array - points and update"
 git push
