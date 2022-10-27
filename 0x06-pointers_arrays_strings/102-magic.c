@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+ * main- code will print a[2] = 98
+ */
 int main(void)
 {
 	int n;
